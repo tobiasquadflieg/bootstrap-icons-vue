@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-icons-vue",
-  "version": "11.1.1",
+  "version": "1.11.1",
   "description": "Bootstrap icons as Vue components.",
   "author": "Thomas Ip <thomas@ipthomas.com>",
   "license": "MIT",
@@ -50,13 +50,11 @@
     "rollup": "^3.29.4",
     "tslib": "^2.6.2",
     "typescript": "^5.2.2",
+    "vue-eslint-parser": "^9.3.1",
     "vue": "^3.3.4"
   },
   "files": [
     "/dist"
   ],
-  "sideEffects": false,
-  "dependencies": {
-    "vue-eslint-parser": "^9.3.1"
-  }
+  "sideEffects": false
 }
